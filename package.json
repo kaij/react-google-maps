@@ -106,7 +106,7 @@
     "invariant": "^2.2.1",
     "lodash": "^4.16.2",
     "marker-clusterer-plus": "^2.1.4",
-    "markerwithlabel": "https://git@github.com/kaij/markerwithlabel.git",
+    "markerwithlabel": "https://github.com/kaij/node-MarkerWithLabel.git#a13483f",
     "prop-types": "^15.5.8",
     "recompose": "^0.26.0",
     "scriptjs": "^2.5.8",
